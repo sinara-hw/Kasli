@@ -496,10 +496,6 @@ Variation10=Designator=C9|UniqueId=\OIQTLDDY\UDPFCDJG|Kind=1|AlternatePart=
 Variation11=Designator=C13|UniqueId=\OIQTLDDY\TFWDLSLB|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[SearchPath1]
-Path=..\..\..\..\CernLib\*.*
-IncludeSubFolders=1
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
