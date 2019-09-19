@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for PCB_3U_Kasli
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -399,7 +399,7 @@ UniqueID=7B06FB3C-00CE-463C-ACDB-F389B2290E9F
 Description=with_baluns
 AllowFabrication=0
 ParameterCount=0
-VariationCount=15
+VariationCount=18
 Variation1=Designator=R43|UniqueId=\GNHKTQUG\KDGDSGUR|Kind=1|AlternatePart= 
 Variation2=Designator=J24|UniqueId=\TCPEGTAL\MDYYLENS|Kind=1|AlternatePart= 
 Variation3=Designator=C9|UniqueId=\GNHKTQUG\TFTCRDPQ|Kind=1|AlternatePart= 
@@ -415,6 +415,9 @@ Variation12=Designator=C198|UniqueId=\NULVPNQG\BBLXLQMA|Kind=1|AlternatePart=
 Variation13=Designator=C200|UniqueId=\NULVPNQG\HGFXJXGV|Kind=1|AlternatePart= 
 Variation14=Designator=C201|UniqueId=\NULVPNQG\JLXVBHBA|Kind=1|AlternatePart= 
 Variation15=Designator=C199|UniqueId=\NULVPNQG\KFHTYBCB|Kind=1|AlternatePart= 
+Variation16=Designator=R242|UniqueId=\OIQTLDDY\KDHWZBRU|Kind=1|AlternatePart= 
+Variation17=Designator=R247|UniqueId=\OIQTLDDY\HYAYYQNE|Kind=1|AlternatePart= 
+Variation18=Designator=R246|UniqueId=\OIQTLDDY\SUURZBTA|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Configuration1]
@@ -438,7 +441,7 @@ ContentTypeGUID=
 ConfigurationType=
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for PCB_3U_Kasli
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -549,7 +552,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP-LAB230 (HP LaserJet M1536dnf MFP)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
