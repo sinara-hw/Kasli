@@ -396,10 +396,10 @@ DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueID=7B06FB3C-00CE-463C-ACDB-F389B2290E9F
-Description=with_baluns
+Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=18
+VariationCount=19
 Variation1=Designator=R43|UniqueId=\GNHKTQUG\KDGDSGUR|Kind=1|AlternatePart= 
 Variation2=Designator=J24|UniqueId=\TCPEGTAL\MDYYLENS|Kind=1|AlternatePart= 
 Variation3=Designator=C9|UniqueId=\GNHKTQUG\TFTCRDPQ|Kind=1|AlternatePart= 
@@ -418,6 +418,7 @@ Variation15=Designator=C199|UniqueId=\NULVPNQG\KFHTYBCB|Kind=1|AlternatePart=
 Variation16=Designator=R242|UniqueId=\OIQTLDDY\KDHWZBRU|Kind=1|AlternatePart= 
 Variation17=Designator=R247|UniqueId=\OIQTLDDY\HYAYYQNE|Kind=1|AlternatePart= 
 Variation18=Designator=R246|UniqueId=\OIQTLDDY\SUURZBTA|Kind=1|AlternatePart= 
+Variation19=Designator=R9|UniqueId=\GNHKTQUG\YPMMAQUS|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Configuration1]
