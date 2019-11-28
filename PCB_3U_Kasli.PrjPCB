@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for PCB_3U_Kasli
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -171,7 +171,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PVCEGSSP
+DocumentUniqueId=FALOBWGM
 
 [Document9]
 DocumentPath=TOP.SchDoc
@@ -394,12 +394,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document22]
+DocumentPath=..\..\..\Keepout_PCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EHADXWFU
+
 [ProjectVariant1]
 UniqueID=7B06FB3C-00CE-463C-ACDB-F389B2290E9F
 Description=Si549 CMOS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=17
+VariationCount=18
 Variation1=Designator=R43|UniqueId=\GNHKTQUG\KDGDSGUR|Kind=1|AlternatePart= 
 Variation2=Designator=J24|UniqueId=\TCPEGTAL\MDYYLENS|Kind=1|AlternatePart= 
 Variation3=Designator=R38|UniqueId=\OIQTLDDY\FGVMEKOC|Kind=1|AlternatePart= 
@@ -417,6 +434,7 @@ Variation14=Designator=R246|UniqueId=\OIQTLDDY\SUURZBTA|Kind=1|AlternatePart=
 Variation15=Designator=R9|UniqueId=\GNHKTQUG\YPMMAQUS|Kind=1|AlternatePart= 
 Variation16=Designator=R80|UniqueId=\OWGHOVHE|Kind=1|AlternatePart= 
 Variation17=Designator=R13|UniqueId=\LUVCHRQI|Kind=1|AlternatePart= 
+Variation18=Designator=J26|UniqueId=\XHDMXMMK\RPERGPYF|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -424,7 +442,7 @@ UniqueID=A2D5C312-5976-4949-9DA9-6F2832D583FB
 Description=Si549 LVDS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=24
+VariationCount=26
 Variation1=Designator=R43|UniqueId=\GNHKTQUG\KDGDSGUR|Kind=1|AlternatePart= 
 Variation2=Designator=J24|UniqueId=\TCPEGTAL\MDYYLENS|Kind=1|AlternatePart= 
 Variation3=Designator=R38|UniqueId=\OIQTLDDY\FGVMEKOC|Kind=0|AlternatePart= 
@@ -479,9 +497,9 @@ ParamDesignator15=OSC1
 ParamVariation16=ParameterName=Value|VariantValue=0.2-800M
 ParamDesignator16=OSC1
 Variation22=Designator=R37|UniqueId=\OIQTLDDY\NBBXXSML|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=Resistor - 1%|AltLibLink_DesignItemID=R0402_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=False
-ParamVariation17=ParameterName=Case|VariantValue=0402
+ParamVariation17=ParameterName=Comment|VariantValue==Value
 ParamDesignator17=R37
-ParamVariation18=ParameterName=Comment|VariantValue==Value
+ParamVariation18=ParameterName=Case|VariantValue=0402
 ParamDesignator18=R37
 ParamVariation19=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator19=R37
@@ -574,8 +592,74 @@ ParamVariation62=ParameterName=Simulation|VariantValue=
 ParamDesignator62=OSC3
 ParamVariation63=ParameterName=Value|VariantValue=0.2-800M
 ParamDesignator63=OSC3
-Variation24=Designator=R225|UniqueId=\GNHKTQUG\EKZNZNIN|Kind=1|AlternatePart= 
-ParamVariationCount=63
+Variation24=Designator=R225|UniqueId=\GNHKTQUG\EKZNZNIN|Kind=1|AlternatePart==Value
+ParamVariation64=ParameterName=Case|VariantValue=0402
+ParamDesignator64=R225
+ParamVariation65=ParameterName=Comment|VariantValue==Value
+ParamDesignator65=R225
+ParamVariation66=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator66=R225
+ParamVariation67=ParameterName=Component Type|VariantValue=Standard
+ParamDesignator67=R225
+ParamVariation68=ParameterName=CreateDate|VariantValue=03.12.2007
+ParamDesignator68=R225
+ParamVariation69=ParameterName=Database Table Name|VariantValue=Resistors SMD
+ParamDesignator69=R225
+ParamVariation70=ParameterName=Description|VariantValue=Resistor
+ParamDesignator70=R225
+ParamVariation71=ParameterName=Footprint|VariantValue=RESC1005X40N
+ParamDesignator71=R225
+ParamVariation72=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R0402_Phycomp_RC0402.pdf
+ParamDesignator72=R225
+ParamVariation73=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator73=R225
+ParamVariation74=ParameterName=LatestRevisionDate|VariantValue=17.10.2012
+ParamDesignator74=R225
+ParamVariation75=ParameterName=Library Reference|VariantValue=R0402_0R_JUMPER
+ParamDesignator75=R225
+ParamVariation76=ParameterName=Manufacturer|VariantValue=GENERIC
+ParamDesignator76=R225
+ParamVariation77=ParameterName=Manufacturer1 ComponentHeight|VariantValue=0.4mm
+ParamDesignator77=R225
+ParamVariation78=ParameterName=Manufacturer1 Example|VariantValue=YAGEO PHYCOMP
+ParamDesignator78=R225
+ParamVariation79=ParameterName=Manufacturer1 Part Number|VariantValue=232270591001L
+ParamDesignator79=R225
+ParamVariation80=ParameterName=Manufacturer Part Number|VariantValue=R0402_0R_JUMPER
+ParamDesignator80=R225
+ParamVariation81=ParameterName=Mounted|VariantValue=Yes
+ParamDesignator81=R225
+ParamVariation82=ParameterName=Part Description|VariantValue=1A (0.05R Max DC Resistance) Zero Ohm Jumper
+ParamDesignator82=R225
+ParamVariation83=ParameterName=Part Number|VariantValue=R0402_0R_JUMPER
+ParamDesignator83=R225
+ParamVariation84=ParameterName=PCB3D|VariantValue= 
+ParamDesignator84=R225
+ParamVariation85=ParameterName=Pin Count|VariantValue=2
+ParamDesignator85=R225
+ParamVariation86=ParameterName=Pin Info|VariantValue= 
+ParamDesignator86=R225
+ParamVariation87=ParameterName=PressFit|VariantValue=No
+ParamDesignator87=R225
+ParamVariation88=ParameterName=Sense|VariantValue=No
+ParamDesignator88=R225
+ParamVariation89=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator89=R225
+ParamVariation90=ParameterName=Simulation|VariantValue= 
+ParamDesignator90=R225
+ParamVariation91=ParameterName=SMD|VariantValue=Yes
+ParamDesignator91=R225
+ParamVariation92=ParameterName=Socket|VariantValue=No
+ParamDesignator92=R225
+ParamVariation93=ParameterName=Status|VariantValue=Not Recommended
+ParamDesignator93=R225
+ParamVariation94=ParameterName=Value|VariantValue=0
+ParamDesignator94=R225
+Variation25=Designator=J26|UniqueId=\XHDMXMMK\RPERGPYF|Kind=1|AlternatePart= 
+Variation26=Designator=R225|UniqueId=\OIQTLDDY\EJSHAETY|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=Resistor - 1%|AltLibLink_DesignItemID=R0402_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=False
+ParamVariation95=ParameterName=Comment|VariantValue==Value
+ParamDesignator95=R225
+ParamVariationCount=95
 
 [Configuration1]
 Name=Default Configuration
@@ -598,12 +682,12 @@ ContentTypeGUID=
 ConfigurationType=
 
 [Generic_EDE]
-OutputDir=Project Outputs for PCB_3U_Kasli
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=HP-LAB230 (HP LaserJet M1536dnf MFP)
+TargetPrinter=HP LaserJet M1530 MFP Series PCL 6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -781,7 +865,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=HP-LAB230 (HP LaserJet M1536dnf MFP)
+TargetPrinter=HP LaserJet M1530 MFP Series PCL 6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -803,7 +887,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP-LAB230 (HP LaserJet M1536dnf MFP)
+TargetPrinter=HP LaserJet M1530 MFP Series PCL 6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -875,7 +959,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=HP-LAB230 (HP LaserJet M1536dnf MFP)
+TargetPrinter=HP LaserJet M1530 MFP Series PCL 6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=SimpleBOM
 OutputName1=Simple BOM
@@ -928,7 +1012,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=HP-LAB230 (HP LaserJet M1536dnf MFP)
+TargetPrinter=HP LaserJet M1530 MFP Series PCL 6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1108,7 +1192,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=HP-LAB230 (HP LaserJet M1536dnf MFP)
+TargetPrinter=HP LaserJet M1530 MFP Series PCL 6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
@@ -1152,7 +1236,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=HP-LAB230 (HP LaserJet M1536dnf MFP)
+TargetPrinter=HP LaserJet M1530 MFP Series PCL 6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1213,7 +1297,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=HP-LAB230 (HP LaserJet M1536dnf MFP)
+TargetPrinter=HP LaserJet M1530 MFP Series PCL 6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
