@@ -394,47 +394,34 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
-DocumentPath=..\..\..\Keepout_PCB.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EHADXWFU
-
 [ProjectVariant1]
 UniqueID=7B06FB3C-00CE-463C-ACDB-F389B2290E9F
 Description=Si549 CMOS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=18
+VariationCount=22
 Variation1=Designator=R43|UniqueId=\GNHKTQUG\KDGDSGUR|Kind=1|AlternatePart= 
 Variation2=Designator=J24|UniqueId=\TCPEGTAL\MDYYLENS|Kind=1|AlternatePart= 
-Variation3=Designator=R38|UniqueId=\OIQTLDDY\FGVMEKOC|Kind=1|AlternatePart= 
-Variation4=Designator=R98|UniqueId=\OIQTLDDY\TIDROLHD|Kind=1|AlternatePart= 
+Variation3=Designator=R38|UniqueId=\OIQTLDDY\FGVMEKOC|Kind=0|AlternatePart= 
+Variation4=Designator=R98|UniqueId=\OIQTLDDY\TIDROLHD|Kind=0|AlternatePart= 
 Variation5=Designator=C189|UniqueId=\OIQTLDDY\EAWUCXAD|Kind=1|AlternatePart= 
 Variation6=Designator=R39|UniqueId=\OIQTLDDY\THUPQFIA|Kind=1|AlternatePart= 
 Variation7=Designator=R40|UniqueId=\OIQTLDDY\FPVHEEIU|Kind=1|AlternatePart= 
-Variation8=Designator=C198|UniqueId=\NULVPNQG\BBLXLQMA|Kind=1|AlternatePart= 
-Variation9=Designator=C200|UniqueId=\NULVPNQG\HGFXJXGV|Kind=1|AlternatePart= 
-Variation10=Designator=C201|UniqueId=\NULVPNQG\JLXVBHBA|Kind=1|AlternatePart= 
-Variation11=Designator=C199|UniqueId=\NULVPNQG\KFHTYBCB|Kind=1|AlternatePart= 
-Variation12=Designator=R242|UniqueId=\OIQTLDDY\KDHWZBRU|Kind=1|AlternatePart= 
-Variation13=Designator=R247|UniqueId=\OIQTLDDY\HYAYYQNE|Kind=1|AlternatePart= 
-Variation14=Designator=R246|UniqueId=\OIQTLDDY\SUURZBTA|Kind=1|AlternatePart= 
-Variation15=Designator=R9|UniqueId=\GNHKTQUG\YPMMAQUS|Kind=1|AlternatePart= 
-Variation16=Designator=R80|UniqueId=\OWGHOVHE|Kind=1|AlternatePart= 
-Variation17=Designator=R13|UniqueId=\LUVCHRQI|Kind=1|AlternatePart= 
-Variation18=Designator=J26|UniqueId=\XHDMXMMK\RPERGPYF|Kind=1|AlternatePart= 
+Variation8=Designator=R242|UniqueId=\OIQTLDDY\KDHWZBRU|Kind=1|AlternatePart= 
+Variation9=Designator=R247|UniqueId=\OIQTLDDY\HYAYYQNE|Kind=1|AlternatePart= 
+Variation10=Designator=R246|UniqueId=\OIQTLDDY\SUURZBTA|Kind=1|AlternatePart= 
+Variation11=Designator=R9|UniqueId=\GNHKTQUG\YPMMAQUS|Kind=1|AlternatePart= 
+Variation12=Designator=R80|UniqueId=\OWGHOVHE|Kind=1|AlternatePart= 
+Variation13=Designator=R13|UniqueId=\LUVCHRQI|Kind=1|AlternatePart= 
+Variation14=Designator=J26|UniqueId=\XHDMXMMK\RPERGPYF|Kind=1|AlternatePart= 
+Variation15=Designator=C295|UniqueId=\OIQTLDDY\OCANRPPT|Kind=1|AlternatePart= 
+Variation16=Designator=C294|UniqueId=\OIQTLDDY\ZZGVKREO|Kind=1|AlternatePart= 
+Variation17=Designator=R36|UniqueId=\OIQTLDDY\HYNRWMDG|Kind=1|AlternatePart= 
+Variation18=Designator=R97|UniqueId=\OIQTLDDY\ENXXINIY|Kind=1|AlternatePart= 
+Variation19=Designator=R47|UniqueId=\OIQTLDDY\QYQOBBCQ|Kind=1|AlternatePart= 
+Variation20=Designator=R48|UniqueId=\OIQTLDDY\UKILZCLD|Kind=1|AlternatePart= 
+Variation21=Designator=R152|UniqueId=\OIQTLDDY\MBIQLCXH|Kind=1|AlternatePart= 
+Variation22=Designator=R153|UniqueId=\OIQTLDDY\TPUGUJGC|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -445,221 +432,271 @@ ParameterCount=0
 VariationCount=26
 Variation1=Designator=R43|UniqueId=\GNHKTQUG\KDGDSGUR|Kind=1|AlternatePart= 
 Variation2=Designator=J24|UniqueId=\TCPEGTAL\MDYYLENS|Kind=1|AlternatePart= 
-Variation3=Designator=R38|UniqueId=\OIQTLDDY\FGVMEKOC|Kind=0|AlternatePart= 
-Variation4=Designator=R98|UniqueId=\OIQTLDDY\TIDROLHD|Kind=0|AlternatePart= 
-Variation5=Designator=C189|UniqueId=\OIQTLDDY\EAWUCXAD|Kind=0|AlternatePart= 
-Variation6=Designator=R39|UniqueId=\OIQTLDDY\THUPQFIA|Kind=1|AlternatePart= 
-Variation7=Designator=R40|UniqueId=\OIQTLDDY\FPVHEEIU|Kind=1|AlternatePart= 
-Variation8=Designator=C198|UniqueId=\NULVPNQG\BBLXLQMA|Kind=1|AlternatePart= 
-Variation9=Designator=C200|UniqueId=\NULVPNQG\HGFXJXGV|Kind=1|AlternatePart= 
-Variation10=Designator=C201|UniqueId=\NULVPNQG\JLXVBHBA|Kind=1|AlternatePart= 
-Variation11=Designator=C199|UniqueId=\NULVPNQG\KFHTYBCB|Kind=1|AlternatePart= 
-Variation12=Designator=R242|UniqueId=\OIQTLDDY\KDHWZBRU|Kind=1|AlternatePart= 
-Variation13=Designator=R247|UniqueId=\OIQTLDDY\HYAYYQNE|Kind=1|AlternatePart= 
-Variation14=Designator=R246|UniqueId=\OIQTLDDY\SUURZBTA|Kind=1|AlternatePart= 
-Variation15=Designator=R9|UniqueId=\GNHKTQUG\YPMMAQUS|Kind=1|AlternatePart= 
-Variation16=Designator=R80|UniqueId=\OWGHOVHE|Kind=1|AlternatePart= 
-Variation17=Designator=R13|UniqueId=\LUVCHRQI|Kind=1|AlternatePart= 
-Variation18=Designator=R36|UniqueId=\OIQTLDDY\HYNRWMDG|Kind=1|AlternatePart= 
-Variation19=Designator=R97|UniqueId=\OIQTLDDY\ENXXINIY|Kind=1|AlternatePart= 
-Variation20=Designator=R224|UniqueId=\OIQTLDDY\WAKUYHVP|Kind=1|AlternatePart= 
-Variation21=Designator=OSC1|UniqueId=\OIQTLDDY\IRXKGHLC|Kind=2|AlternatePart==VALUE|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Schlib1.SchLib|AltLibLink_SymbolReference=OSC_SILICON-LAB_SI549|AltLibLink_DesignItemID=OSC_SILICON-LAB_SI549_LVDS|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Schlib1.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=OSC_SILICON-LAB_SI549|AltLibLink_IsSameFootprint=False
-ParamVariation1=ParameterName=Comment|VariantValue==VALUE
+Variation3=Designator=R39|UniqueId=\OIQTLDDY\THUPQFIA|Kind=1|AlternatePart= 
+Variation4=Designator=R40|UniqueId=\OIQTLDDY\FPVHEEIU|Kind=1|AlternatePart= 
+Variation5=Designator=R242|UniqueId=\OIQTLDDY\KDHWZBRU|Kind=1|AlternatePart= 
+Variation6=Designator=R247|UniqueId=\OIQTLDDY\HYAYYQNE|Kind=1|AlternatePart= 
+Variation7=Designator=R246|UniqueId=\OIQTLDDY\SUURZBTA|Kind=1|AlternatePart= 
+Variation8=Designator=R9|UniqueId=\GNHKTQUG\YPMMAQUS|Kind=1|AlternatePart= 
+Variation9=Designator=R80|UniqueId=\OWGHOVHE|Kind=1|AlternatePart= 
+Variation10=Designator=R13|UniqueId=\LUVCHRQI|Kind=1|AlternatePart= 
+Variation11=Designator=R36|UniqueId=\OIQTLDDY\HYNRWMDG|Kind=0|AlternatePart= 
+Variation12=Designator=R97|UniqueId=\OIQTLDDY\ENXXINIY|Kind=0|AlternatePart= 
+Variation13=Designator=R224|UniqueId=\OIQTLDDY\WAKUYHVP|Kind=1|AlternatePart= 
+Variation14=Designator=OSC1|UniqueId=\OIQTLDDY\IRXKGHLC|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=ICs And Semiconductors.DbLib/Crystals & Oscillators|AltLibLink_SymbolReference=OSC_SILICON-LAB_SI549|AltLibLink_DesignItemID=OSC_0.2-800MHZ_SILICON-LAB_549BACB001937ABG|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ICs And Semiconductors.DbLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Crystals & Oscillators|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=OSC_SILICON-LAB_SI549-A|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue==Value
 ParamDesignator1=OSC1
 ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator2=OSC1
-ParamVariation3=ParameterName=Description|VariantValue=Ultra Low Jitter I2C Programmable XO (95 fs), 0.2 to 250MHz
+ParamVariation3=ParameterName=Description|VariantValue=Ultra Low Jitter I2C Programmable Crystal Oscillator (XO), Si549 Series
 ParamDesignator3=OSC1
-ParamVariation4=ParameterName=Footprint|VariantValue=OSC_SILICON-LAB_SI549
+ParamVariation4=ParameterName=Footprint|VariantValue=OSC_SILICON-LAB_SI549-A
 ParamDesignator4=OSC1
 ParamVariation5=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator5=OSC1
-ParamVariation6=ParameterName=Library Reference|VariantValue=OSC_SILICON-LAB_SI549_LVDS
+ParamVariation6=ParameterName=Library Reference|VariantValue=OSC_0.2-800MHZ_SILICON-LAB_549BACB001937ABG
 ParamDesignator6=OSC1
-ParamVariation7=ParameterName=Manufacturer|VariantValue=Silabs
+ParamVariation7=ParameterName=Manufacturer|VariantValue=SILICON LABS
 ParamDesignator7=OSC1
 ParamVariation8=ParameterName=Manufacturer Part Number|VariantValue=549BACB001937ABG
 ParamDesignator8=OSC1
-ParamVariation9=ParameterName=Part Description|VariantValue=Ultra Low Jitter I2C Programmable XO (95 fs), 0.2 to 800MHz
+ParamVariation9=ParameterName=Part Description|VariantValue=0.2-800MHz, 1.8V/2.5V/3.3V ±20ppm LVDS, Ultra Low Jitter I2C Programmable Crystal Oscillator (XO), Si549 Series
 ParamDesignator9=OSC1
-ParamVariation10=ParameterName=Part Name|VariantValue=OSC_10-280MHZ_SILICON-LAB_Si549BACB001937ABG
+ParamVariation10=ParameterName=Part Number|VariantValue=OSC_0.2-800MHZ_SILICON-LAB_549BACB001937ABG
 ParamDesignator10=OSC1
-ParamVariation11=ParameterName=Part Number|VariantValue=Si549BACB001937ABG
+ParamVariation11=ParameterName=PCB3D|VariantValue= 
 ParamDesignator11=OSC1
-ParamVariation12=ParameterName=PCB3D|VariantValue= 
+ParamVariation12=ParameterName=Pin Info|VariantValue= 
 ParamDesignator12=OSC1
-ParamVariation13=ParameterName=Pin Info|VariantValue= 
+ParamVariation13=ParameterName=Signal Integrity|VariantValue= 
 ParamDesignator13=OSC1
-ParamVariation14=ParameterName=Signal Integrity|VariantValue= 
+ParamVariation14=ParameterName=Simulation|VariantValue= 
 ParamDesignator14=OSC1
-ParamVariation15=ParameterName=Simulation|VariantValue= 
+ParamVariation15=ParameterName=Value|VariantValue=0.2-800MHz
 ParamDesignator15=OSC1
-ParamVariation16=ParameterName=Value|VariantValue=0.2-800M
+ParamVariation16=ParameterName=Bonding|VariantValue=No
 ParamDesignator16=OSC1
-Variation22=Designator=R37|UniqueId=\OIQTLDDY\NBBXXSML|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=Resistor - 1%|AltLibLink_DesignItemID=R0402_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=False
-ParamVariation17=ParameterName=Comment|VariantValue==Value
-ParamDesignator17=R37
-ParamVariation18=ParameterName=Case|VariantValue=0402
-ParamDesignator18=R37
-ParamVariation19=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator19=R37
-ParamVariation20=ParameterName=Component Type|VariantValue=Standard
-ParamDesignator20=R37
-ParamVariation21=ParameterName=CreateDate|VariantValue=03.12.2007
-ParamDesignator21=R37
-ParamVariation22=ParameterName=Database Table Name|VariantValue=Resistors SMD
-ParamDesignator22=R37
-ParamVariation23=ParameterName=Description|VariantValue=Resistor
-ParamDesignator23=R37
-ParamVariation24=ParameterName=Footprint|VariantValue=RESC1005X40N
-ParamDesignator24=R37
-ParamVariation25=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R0402_Phycomp_RC0402.pdf
-ParamDesignator25=R37
-ParamVariation26=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator26=R37
-ParamVariation27=ParameterName=LatestRevisionDate|VariantValue=17.10.2012
-ParamDesignator27=R37
-ParamVariation28=ParameterName=Library Reference|VariantValue=R0402_0R_JUMPER
-ParamDesignator28=R37
-ParamVariation29=ParameterName=Manufacturer|VariantValue=GENERIC
-ParamDesignator29=R37
-ParamVariation30=ParameterName=Manufacturer1 ComponentHeight|VariantValue=0.4mm
+ParamVariation17=ParameterName=ComponentHeight|VariantValue=1.33mm
+ParamDesignator17=OSC1
+ParamVariation18=ParameterName=Component Type|VariantValue=Standard
+ParamDesignator18=OSC1
+ParamVariation19=ParameterName=CreateDate|VariantValue=27.11.2019
+ParamDesignator19=OSC1
+ParamVariation20=ParameterName=Database Table Name|VariantValue=Crystals & Oscillators
+ParamDesignator20=OSC1
+ParamVariation21=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\OSC_SILICON-LAB_SI549.pdf
+ParamDesignator21=OSC1
+ParamVariation22=ParameterName=LatestRevisionDate|VariantValue=02.12.2019
+ParamDesignator22=OSC1
+ParamVariation23=ParameterName=Mounted|VariantValue=Yes
+ParamDesignator23=OSC1
+ParamVariation24=ParameterName=PackageDescription|VariantValue=Oscillator Si549 Series, 8 pins, 5x7mm
+ParamDesignator24=OSC1
+ParamVariation25=ParameterName=Pin Count|VariantValue=8
+ParamDesignator25=OSC1
+ParamVariation26=ParameterName=PressFit|VariantValue=No
+ParamDesignator26=OSC1
+ParamVariation27=ParameterName=Sense|VariantValue=No
+ParamDesignator27=OSC1
+ParamVariation28=ParameterName=SMD|VariantValue=Yes
+ParamDesignator28=OSC1
+ParamVariation29=ParameterName=Socket|VariantValue=No
+ParamDesignator29=OSC1
+Variation15=Designator=R37|UniqueId=\OIQTLDDY\NBBXXSML|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=Resistor - 1%|AltLibLink_DesignItemID=R0402_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
+ParamVariation30=ParameterName=Comment|VariantValue==Value
 ParamDesignator30=R37
-ParamVariation31=ParameterName=Manufacturer1 Example|VariantValue=YAGEO PHYCOMP
+ParamVariation31=ParameterName=Case|VariantValue=0402
 ParamDesignator31=R37
-ParamVariation32=ParameterName=Manufacturer1 Part Number|VariantValue=232270591001L
+ParamVariation32=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator32=R37
-ParamVariation33=ParameterName=Manufacturer Part Number|VariantValue=R0402_0R_JUMPER
+ParamVariation33=ParameterName=Component Type|VariantValue=Standard
 ParamDesignator33=R37
-ParamVariation34=ParameterName=Mounted|VariantValue=Yes
+ParamVariation34=ParameterName=CreateDate|VariantValue=03.12.2007
 ParamDesignator34=R37
-ParamVariation35=ParameterName=Part Description|VariantValue=1A (0.05R Max DC Resistance) Zero Ohm Jumper
+ParamVariation35=ParameterName=Database Table Name|VariantValue=Resistors SMD
 ParamDesignator35=R37
-ParamVariation36=ParameterName=Part Number|VariantValue=R0402_0R_JUMPER
+ParamVariation36=ParameterName=Description|VariantValue=Resistor
 ParamDesignator36=R37
-ParamVariation37=ParameterName=PCB3D|VariantValue= 
+ParamVariation37=ParameterName=Footprint|VariantValue=RESC1005X40N
 ParamDesignator37=R37
-ParamVariation38=ParameterName=Pin Count|VariantValue=2
+ParamVariation38=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R0402_Phycomp_RC0402.pdf
 ParamDesignator38=R37
-ParamVariation39=ParameterName=Pin Info|VariantValue= 
+ParamVariation39=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator39=R37
-ParamVariation40=ParameterName=PressFit|VariantValue=No
+ParamVariation40=ParameterName=LatestRevisionDate|VariantValue=17.10.2012
 ParamDesignator40=R37
-ParamVariation41=ParameterName=Sense|VariantValue=No
+ParamVariation41=ParameterName=Library Reference|VariantValue=R0402_0R_JUMPER
 ParamDesignator41=R37
-ParamVariation42=ParameterName=Signal Integrity|VariantValue= 
+ParamVariation42=ParameterName=Manufacturer|VariantValue=GENERIC
 ParamDesignator42=R37
-ParamVariation43=ParameterName=Simulation|VariantValue= 
+ParamVariation43=ParameterName=Manufacturer1 ComponentHeight|VariantValue=0.4mm
 ParamDesignator43=R37
-ParamVariation44=ParameterName=SMD|VariantValue=Yes
+ParamVariation44=ParameterName=Manufacturer1 Example|VariantValue=YAGEO PHYCOMP
 ParamDesignator44=R37
-ParamVariation45=ParameterName=Socket|VariantValue=No
+ParamVariation45=ParameterName=Manufacturer1 Part Number|VariantValue=232270591001L
 ParamDesignator45=R37
-ParamVariation46=ParameterName=Status|VariantValue=Not Recommended
+ParamVariation46=ParameterName=Manufacturer Part Number|VariantValue=R0402_0R_JUMPER
 ParamDesignator46=R37
-ParamVariation47=ParameterName=Value|VariantValue=0
+ParamVariation47=ParameterName=Mounted|VariantValue=Yes
 ParamDesignator47=R37
-Variation23=Designator=OSC3|UniqueId=\OIQTLDDY\NKLWODKB|Kind=2|AlternatePart==VALUE|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Schlib1.SchLib|AltLibLink_SymbolReference=OSC_SILICON-LAB_SI549|AltLibLink_DesignItemID=OSC_SILICON-LAB_SI549_LVDS|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Schlib1.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=OSC_SILICON-LAB_SI549|AltLibLink_IsSameFootprint=False
-ParamVariation48=ParameterName=Comment|VariantValue==VALUE
-ParamDesignator48=OSC3
-ParamVariation49=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator49=OSC3
-ParamVariation50=ParameterName=Description|VariantValue=Ultra Low Jitter I2C Programmable XO (95 fs), 0.2 to 250MHz
-ParamDesignator50=OSC3
-ParamVariation51=ParameterName=Footprint|VariantValue=OSC_SILICON-LAB_SI549
-ParamDesignator51=OSC3
-ParamVariation52=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator52=OSC3
-ParamVariation53=ParameterName=Library Reference|VariantValue=OSC_SILICON-LAB_SI549_LVDS
-ParamDesignator53=OSC3
-ParamVariation54=ParameterName=Manufacturer|VariantValue=Silabs
-ParamDesignator54=OSC3
-ParamVariation55=ParameterName=Manufacturer Part Number|VariantValue=549BACB001937ABG
-ParamDesignator55=OSC3
-ParamVariation56=ParameterName=Part Description|VariantValue=Ultra Low Jitter I2C Programmable XO (95 fs), 0.2 to 800MHz
-ParamDesignator56=OSC3
-ParamVariation57=ParameterName=Part Name|VariantValue=OSC_10-280MHZ_SILICON-LAB_Si549BACB001937ABG
-ParamDesignator57=OSC3
-ParamVariation58=ParameterName=Part Number|VariantValue=Si549BACB001937ABG
-ParamDesignator58=OSC3
-ParamVariation59=ParameterName=PCB3D|VariantValue= 
-ParamDesignator59=OSC3
-ParamVariation60=ParameterName=Pin Info|VariantValue= 
-ParamDesignator60=OSC3
-ParamVariation61=ParameterName=Signal Integrity|VariantValue= 
+ParamVariation48=ParameterName=Part Description|VariantValue=1A (0.05R Max DC Resistance) Zero Ohm Jumper
+ParamDesignator48=R37
+ParamVariation49=ParameterName=Part Number|VariantValue=R0402_0R_JUMPER
+ParamDesignator49=R37
+ParamVariation50=ParameterName=PCB3D|VariantValue= 
+ParamDesignator50=R37
+ParamVariation51=ParameterName=Pin Count|VariantValue=2
+ParamDesignator51=R37
+ParamVariation52=ParameterName=Pin Info|VariantValue= 
+ParamDesignator52=R37
+ParamVariation53=ParameterName=PressFit|VariantValue=No
+ParamDesignator53=R37
+ParamVariation54=ParameterName=Sense|VariantValue=No
+ParamDesignator54=R37
+ParamVariation55=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator55=R37
+ParamVariation56=ParameterName=Simulation|VariantValue= 
+ParamDesignator56=R37
+ParamVariation57=ParameterName=SMD|VariantValue=Yes
+ParamDesignator57=R37
+ParamVariation58=ParameterName=Socket|VariantValue=No
+ParamDesignator58=R37
+ParamVariation59=ParameterName=Status|VariantValue=Not Recommended
+ParamDesignator59=R37
+ParamVariation60=ParameterName=Value|VariantValue=0
+ParamDesignator60=R37
+Variation16=Designator=OSC3|UniqueId=\OIQTLDDY\NKLWODKB|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=ICs And Semiconductors.DbLib/Crystals & Oscillators|AltLibLink_SymbolReference=OSC_SILICON-LAB_SI549|AltLibLink_DesignItemID=OSC_0.2-800MHZ_SILICON-LAB_549BACB001937ABG|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ICs And Semiconductors.DbLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Crystals & Oscillators|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=OSC_SILICON-LAB_SI549-A|AltLibLink_IsSameFootprint=True
+ParamVariation61=ParameterName=Comment|VariantValue==Value
 ParamDesignator61=OSC3
-ParamVariation62=ParameterName=Simulation|VariantValue= 
+ParamVariation62=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator62=OSC3
-ParamVariation63=ParameterName=Value|VariantValue=0.2-800M
+ParamVariation63=ParameterName=Description|VariantValue=Ultra Low Jitter I2C Programmable Crystal Oscillator (XO), Si549 Series
 ParamDesignator63=OSC3
-Variation24=Designator=R225|UniqueId=\GNHKTQUG\EKZNZNIN|Kind=1|AlternatePart==Value
-ParamVariation64=ParameterName=Case|VariantValue=0402
-ParamDesignator64=R225
-ParamVariation65=ParameterName=Comment|VariantValue==Value
-ParamDesignator65=R225
-ParamVariation66=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator66=R225
-ParamVariation67=ParameterName=Component Type|VariantValue=Standard
-ParamDesignator67=R225
-ParamVariation68=ParameterName=CreateDate|VariantValue=03.12.2007
-ParamDesignator68=R225
-ParamVariation69=ParameterName=Database Table Name|VariantValue=Resistors SMD
-ParamDesignator69=R225
-ParamVariation70=ParameterName=Description|VariantValue=Resistor
-ParamDesignator70=R225
-ParamVariation71=ParameterName=Footprint|VariantValue=RESC1005X40N
-ParamDesignator71=R225
-ParamVariation72=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R0402_Phycomp_RC0402.pdf
-ParamDesignator72=R225
-ParamVariation73=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator73=R225
-ParamVariation74=ParameterName=LatestRevisionDate|VariantValue=17.10.2012
-ParamDesignator74=R225
-ParamVariation75=ParameterName=Library Reference|VariantValue=R0402_0R_JUMPER
-ParamDesignator75=R225
-ParamVariation76=ParameterName=Manufacturer|VariantValue=GENERIC
-ParamDesignator76=R225
-ParamVariation77=ParameterName=Manufacturer1 ComponentHeight|VariantValue=0.4mm
-ParamDesignator77=R225
-ParamVariation78=ParameterName=Manufacturer1 Example|VariantValue=YAGEO PHYCOMP
-ParamDesignator78=R225
-ParamVariation79=ParameterName=Manufacturer1 Part Number|VariantValue=232270591001L
-ParamDesignator79=R225
-ParamVariation80=ParameterName=Manufacturer Part Number|VariantValue=R0402_0R_JUMPER
-ParamDesignator80=R225
-ParamVariation81=ParameterName=Mounted|VariantValue=Yes
-ParamDesignator81=R225
-ParamVariation82=ParameterName=Part Description|VariantValue=1A (0.05R Max DC Resistance) Zero Ohm Jumper
-ParamDesignator82=R225
-ParamVariation83=ParameterName=Part Number|VariantValue=R0402_0R_JUMPER
-ParamDesignator83=R225
-ParamVariation84=ParameterName=PCB3D|VariantValue= 
-ParamDesignator84=R225
-ParamVariation85=ParameterName=Pin Count|VariantValue=2
-ParamDesignator85=R225
-ParamVariation86=ParameterName=Pin Info|VariantValue= 
-ParamDesignator86=R225
-ParamVariation87=ParameterName=PressFit|VariantValue=No
-ParamDesignator87=R225
-ParamVariation88=ParameterName=Sense|VariantValue=No
-ParamDesignator88=R225
-ParamVariation89=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator89=R225
-ParamVariation90=ParameterName=Simulation|VariantValue= 
+ParamVariation64=ParameterName=Footprint|VariantValue=OSC_SILICON-LAB_SI549-A
+ParamDesignator64=OSC3
+ParamVariation65=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator65=OSC3
+ParamVariation66=ParameterName=Library Reference|VariantValue=OSC_0.2-800MHZ_SILICON-LAB_549BACB001937ABG
+ParamDesignator66=OSC3
+ParamVariation67=ParameterName=Manufacturer|VariantValue=SILICON LABS
+ParamDesignator67=OSC3
+ParamVariation68=ParameterName=Manufacturer Part Number|VariantValue=549BACB001937ABG
+ParamDesignator68=OSC3
+ParamVariation69=ParameterName=Part Description|VariantValue=0.2-800MHz, 1.8V/2.5V/3.3V ±20ppm LVDS, Ultra Low Jitter I2C Programmable Crystal Oscillator (XO), Si549 Series
+ParamDesignator69=OSC3
+ParamVariation70=ParameterName=Part Number|VariantValue=OSC_0.2-800MHZ_SILICON-LAB_549BACB001937ABG
+ParamDesignator70=OSC3
+ParamVariation71=ParameterName=PCB3D|VariantValue= 
+ParamDesignator71=OSC3
+ParamVariation72=ParameterName=Pin Info|VariantValue= 
+ParamDesignator72=OSC3
+ParamVariation73=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator73=OSC3
+ParamVariation74=ParameterName=Simulation|VariantValue= 
+ParamDesignator74=OSC3
+ParamVariation75=ParameterName=Value|VariantValue=0.2-800MHz
+ParamDesignator75=OSC3
+ParamVariation76=ParameterName=Bonding|VariantValue=No
+ParamDesignator76=OSC3
+ParamVariation77=ParameterName=ComponentHeight|VariantValue=1.33mm
+ParamDesignator77=OSC3
+ParamVariation78=ParameterName=Component Type|VariantValue=Standard
+ParamDesignator78=OSC3
+ParamVariation79=ParameterName=CreateDate|VariantValue=27.11.2019
+ParamDesignator79=OSC3
+ParamVariation80=ParameterName=Database Table Name|VariantValue=Crystals & Oscillators
+ParamDesignator80=OSC3
+ParamVariation81=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\OSC_SILICON-LAB_SI549.pdf
+ParamDesignator81=OSC3
+ParamVariation82=ParameterName=LatestRevisionDate|VariantValue=02.12.2019
+ParamDesignator82=OSC3
+ParamVariation83=ParameterName=Mounted|VariantValue=Yes
+ParamDesignator83=OSC3
+ParamVariation84=ParameterName=PackageDescription|VariantValue=Oscillator Si549 Series, 8 pins, 5x7mm
+ParamDesignator84=OSC3
+ParamVariation85=ParameterName=Pin Count|VariantValue=8
+ParamDesignator85=OSC3
+ParamVariation86=ParameterName=PressFit|VariantValue=No
+ParamDesignator86=OSC3
+ParamVariation87=ParameterName=Sense|VariantValue=No
+ParamDesignator87=OSC3
+ParamVariation88=ParameterName=SMD|VariantValue=Yes
+ParamDesignator88=OSC3
+ParamVariation89=ParameterName=Socket|VariantValue=No
+ParamDesignator89=OSC3
+Variation17=Designator=J26|UniqueId=\XHDMXMMK\RPERGPYF|Kind=1|AlternatePart= 
+Variation18=Designator=R225|UniqueId=\OIQTLDDY\EJSHAETY|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=Resistor - 1%|AltLibLink_DesignItemID=R0402_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
+ParamVariation90=ParameterName=Comment|VariantValue==Value
 ParamDesignator90=R225
-ParamVariation91=ParameterName=SMD|VariantValue=Yes
+ParamVariation91=ParameterName=Case|VariantValue=0402
 ParamDesignator91=R225
-ParamVariation92=ParameterName=Socket|VariantValue=No
+ParamVariation92=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator92=R225
-ParamVariation93=ParameterName=Status|VariantValue=Not Recommended
+ParamVariation93=ParameterName=Component Type|VariantValue=Standard
 ParamDesignator93=R225
-ParamVariation94=ParameterName=Value|VariantValue=0
+ParamVariation94=ParameterName=CreateDate|VariantValue=03.12.2007
 ParamDesignator94=R225
-Variation25=Designator=J26|UniqueId=\XHDMXMMK\RPERGPYF|Kind=1|AlternatePart= 
-Variation26=Designator=R225|UniqueId=\OIQTLDDY\EJSHAETY|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=Resistor - 1%|AltLibLink_DesignItemID=R0402_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=False
-ParamVariation95=ParameterName=Comment|VariantValue==Value
+ParamVariation95=ParameterName=Database Table Name|VariantValue=Resistors SMD
 ParamDesignator95=R225
-ParamVariationCount=95
+ParamVariation96=ParameterName=Description|VariantValue=Resistor
+ParamDesignator96=R225
+ParamVariation97=ParameterName=Footprint|VariantValue=RESC1005X40N
+ParamDesignator97=R225
+ParamVariation98=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R0402_Phycomp_RC0402.pdf
+ParamDesignator98=R225
+ParamVariation99=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator99=R225
+ParamVariation100=ParameterName=LatestRevisionDate|VariantValue=17.10.2012
+ParamDesignator100=R225
+ParamVariation101=ParameterName=Library Reference|VariantValue=R0402_0R_JUMPER
+ParamDesignator101=R225
+ParamVariation102=ParameterName=Manufacturer|VariantValue=GENERIC
+ParamDesignator102=R225
+ParamVariation103=ParameterName=Manufacturer1 ComponentHeight|VariantValue=0.4mm
+ParamDesignator103=R225
+ParamVariation104=ParameterName=Manufacturer1 Example|VariantValue=YAGEO PHYCOMP
+ParamDesignator104=R225
+ParamVariation105=ParameterName=Manufacturer1 Part Number|VariantValue=232270591001L
+ParamDesignator105=R225
+ParamVariation106=ParameterName=Manufacturer Part Number|VariantValue=R0402_0R_JUMPER
+ParamDesignator106=R225
+ParamVariation107=ParameterName=Mounted|VariantValue=Yes
+ParamDesignator107=R225
+ParamVariation108=ParameterName=Part Description|VariantValue=1A (0.05R Max DC Resistance) Zero Ohm Jumper
+ParamDesignator108=R225
+ParamVariation109=ParameterName=Part Number|VariantValue=R0402_0R_JUMPER
+ParamDesignator109=R225
+ParamVariation110=ParameterName=PCB3D|VariantValue= 
+ParamDesignator110=R225
+ParamVariation111=ParameterName=Pin Count|VariantValue=2
+ParamDesignator111=R225
+ParamVariation112=ParameterName=Pin Info|VariantValue= 
+ParamDesignator112=R225
+ParamVariation113=ParameterName=PressFit|VariantValue=No
+ParamDesignator113=R225
+ParamVariation114=ParameterName=Sense|VariantValue=No
+ParamDesignator114=R225
+ParamVariation115=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator115=R225
+ParamVariation116=ParameterName=Simulation|VariantValue= 
+ParamDesignator116=R225
+ParamVariation117=ParameterName=SMD|VariantValue=Yes
+ParamDesignator117=R225
+ParamVariation118=ParameterName=Socket|VariantValue=No
+ParamDesignator118=R225
+ParamVariation119=ParameterName=Status|VariantValue=Not Recommended
+ParamDesignator119=R225
+ParamVariation120=ParameterName=Value|VariantValue=0
+ParamDesignator120=R225
+Variation19=Designator=C294|UniqueId=\OIQTLDDY\ZZGVKREO|Kind=1|AlternatePart= 
+Variation20=Designator=C295|UniqueId=\OIQTLDDY\OCANRPPT|Kind=1|AlternatePart= 
+Variation21=Designator=R38|UniqueId=\OIQTLDDY\FGVMEKOC|Kind=1|AlternatePart= 
+Variation22=Designator=R98|UniqueId=\OIQTLDDY\TIDROLHD|Kind=1|AlternatePart= 
+Variation23=Designator=R47|UniqueId=\OIQTLDDY\QYQOBBCQ|Kind=1|AlternatePart= 
+Variation24=Designator=R48|UniqueId=\OIQTLDDY\UKILZCLD|Kind=1|AlternatePart= 
+Variation25=Designator=R152|UniqueId=\OIQTLDDY\MBIQLCXH|Kind=1|AlternatePart= 
+Variation26=Designator=R153|UniqueId=\OIQTLDDY\TPUGUJGC|Kind=1|AlternatePart= 
+ParamVariationCount=120
 
 [Configuration1]
 Name=Default Configuration
@@ -687,7 +724,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=HP LaserJet M1530 MFP Series PCL 6
+TargetPrinter=Canon MG3600 series Printer WS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -793,7 +830,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP LaserJet M1530 MFP Series PCL 6
+TargetPrinter=Canon MG3600 series Printer WS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -865,7 +902,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=HP LaserJet M1530 MFP Series PCL 6
+TargetPrinter=Canon MG3600 series Printer WS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -887,7 +924,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP LaserJet M1530 MFP Series PCL 6
+TargetPrinter=Canon MG3600 series Printer WS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -959,7 +996,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=HP LaserJet M1530 MFP Series PCL 6
+TargetPrinter=Canon MG3600 series Printer WS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=SimpleBOM
 OutputName1=Simple BOM
@@ -1012,7 +1049,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=HP LaserJet M1530 MFP Series PCL 6
+TargetPrinter=Canon MG3600 series Printer WS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1192,7 +1229,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=HP LaserJet M1530 MFP Series PCL 6
+TargetPrinter=Canon MG3600 series Printer WS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
@@ -1236,7 +1273,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=HP LaserJet M1530 MFP Series PCL 6
+TargetPrinter=Canon MG3600 series Printer WS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1297,7 +1334,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=HP LaserJet M1530 MFP Series PCL 6
+TargetPrinter=Canon MG3600 series Printer WS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
