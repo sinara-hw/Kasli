@@ -3,8 +3,8 @@ Kasli is low-cost FPGA carrier, capable of controlling at 12 Eurocard extension 
 
 ## Design Files
 
-Design files (schematics, PCB layouts, BOMs) can be found at [Urukul/Releases](https://github.com/sinara-hw/Urukul/releases).
+Design files (schematics, PCB layouts, BOMs) can be found at [Kasli/Releases](https://github.com/sinara-hw/Kasli/releases).
 
 ## Wiki
 
-More information can be found on the [wiki](https://github.com/sinara-hw/Urukul/wiki).
+More information can be found on the [wiki](https://github.com/sinara-hw/Kasli/wiki).
