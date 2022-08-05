@@ -28,9 +28,10 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for Kasli
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
+LinkedManagedProjectGUID=
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -399,7 +400,7 @@ UniqueID=7B06FB3C-00CE-463C-ACDB-F389B2290E9F
 Description=Si549 CMOS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=22
+VariationCount=39
 Variation1=Designator=R43|UniqueId=\GNHKTQUG\KDGDSGUR|Kind=1|AlternatePart= 
 Variation2=Designator=J24|UniqueId=\TCPEGTAL\MDYYLENS|Kind=1|AlternatePart= 
 Variation3=Designator=R38|UniqueId=\OIQTLDDY\FGVMEKOC|Kind=0|AlternatePart= 
@@ -422,6 +423,23 @@ Variation19=Designator=R47|UniqueId=\OIQTLDDY\QYQOBBCQ|Kind=1|AlternatePart=
 Variation20=Designator=R48|UniqueId=\OIQTLDDY\UKILZCLD|Kind=1|AlternatePart= 
 Variation21=Designator=R152|UniqueId=\OIQTLDDY\MBIQLCXH|Kind=1|AlternatePart= 
 Variation22=Designator=R153|UniqueId=\OIQTLDDY\TPUGUJGC|Kind=1|AlternatePart= 
+Variation23=Designator=IC27|UniqueId=\OIQTLDDY\LQFTJMWQ|Kind=1|AlternatePart= 
+Variation24=Designator=C303|UniqueId=\OIQTLDDY\JTKVHKYA|Kind=1|AlternatePart= 
+Variation25=Designator=D19|UniqueId=\OIQTLDDY\TYQAVSRU|Kind=1|AlternatePart= 
+Variation26=Designator=R192|UniqueId=\OIQTLDDY\OQVNHHZK|Kind=1|AlternatePart= 
+Variation27=Designator=R221|UniqueId=\OIQTLDDY\LNBMWIWZ|Kind=1|AlternatePart= 
+Variation28=Designator=R257|UniqueId=\OIQTLDDY\HRPOLTUQ|Kind=1|AlternatePart= 
+Variation29=Designator=R239|UniqueId=\OIQTLDDY\XQLVLEAA|Kind=1|AlternatePart= 
+Variation30=Designator=R212|UniqueId=\OIQTLDDY\VWLQHRGG|Kind=1|AlternatePart= 
+Variation31=Designator=R181|UniqueId=\OIQTLDDY\FBFXKIGV|Kind=1|AlternatePart= 
+Variation32=Designator=R238|UniqueId=\OIQTLDDY\PEIGQQQQ|Kind=1|AlternatePart= 
+Variation33=Designator=C304|UniqueId=\OIQTLDDY\EBNVHPWA|Kind=1|AlternatePart= 
+Variation34=Designator=R177|UniqueId=\OIQTLDDY\LQFUSYYL|Kind=1|AlternatePart= 
+Variation35=Designator=R264|UniqueId=\WKVFNPCC\RUUFABHK|Kind=1|AlternatePart= 
+Variation36=Designator=R265|UniqueId=\WKVFNPCC\WTKYCOIW|Kind=1|AlternatePart= 
+Variation37=Designator=IC30|UniqueId=\WKVFNPCC\GNGLYROW|Kind=1|AlternatePart= 
+Variation38=Designator=IC31|UniqueId=\WKVFNPCC\JWACMRCL|Kind=1|AlternatePart= 
+Variation39=Designator=C307|UniqueId=\WKVFNPCC\SLUANJBM|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -429,7 +447,7 @@ UniqueID=A2D5C312-5976-4949-9DA9-6F2832D583FB
 Description=Si549 LVDS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=26
+VariationCount=43
 Variation1=Designator=R43|UniqueId=\GNHKTQUG\KDGDSGUR|Kind=1|AlternatePart= 
 Variation2=Designator=J24|UniqueId=\TCPEGTAL\MDYYLENS|Kind=1|AlternatePart= 
 Variation3=Designator=R39|UniqueId=\OIQTLDDY\THUPQFIA|Kind=1|AlternatePart= 
@@ -696,11 +714,28 @@ Variation23=Designator=R47|UniqueId=\OIQTLDDY\QYQOBBCQ|Kind=1|AlternatePart=
 Variation24=Designator=R48|UniqueId=\OIQTLDDY\UKILZCLD|Kind=1|AlternatePart= 
 Variation25=Designator=R152|UniqueId=\OIQTLDDY\MBIQLCXH|Kind=1|AlternatePart= 
 Variation26=Designator=R153|UniqueId=\OIQTLDDY\TPUGUJGC|Kind=1|AlternatePart= 
+Variation27=Designator=IC27|UniqueId=\OIQTLDDY\LQFTJMWQ|Kind=1|AlternatePart= 
+Variation28=Designator=C303|UniqueId=\OIQTLDDY\JTKVHKYA|Kind=1|AlternatePart= 
+Variation29=Designator=D19|UniqueId=\OIQTLDDY\TYQAVSRU|Kind=1|AlternatePart= 
+Variation30=Designator=R192|UniqueId=\OIQTLDDY\OQVNHHZK|Kind=1|AlternatePart= 
+Variation31=Designator=R221|UniqueId=\OIQTLDDY\LNBMWIWZ|Kind=1|AlternatePart= 
+Variation32=Designator=R257|UniqueId=\OIQTLDDY\HRPOLTUQ|Kind=1|AlternatePart= 
+Variation33=Designator=R181|UniqueId=\OIQTLDDY\FBFXKIGV|Kind=1|AlternatePart= 
+Variation34=Designator=R212|UniqueId=\OIQTLDDY\VWLQHRGG|Kind=1|AlternatePart= 
+Variation35=Designator=R239|UniqueId=\OIQTLDDY\XQLVLEAA|Kind=1|AlternatePart= 
+Variation36=Designator=R238|UniqueId=\OIQTLDDY\PEIGQQQQ|Kind=1|AlternatePart= 
+Variation37=Designator=C304|UniqueId=\OIQTLDDY\EBNVHPWA|Kind=1|AlternatePart= 
+Variation38=Designator=R177|UniqueId=\OIQTLDDY\LQFUSYYL|Kind=1|AlternatePart= 
+Variation39=Designator=R264|UniqueId=\WKVFNPCC\RUUFABHK|Kind=1|AlternatePart= 
+Variation40=Designator=R265|UniqueId=\WKVFNPCC\WTKYCOIW|Kind=1|AlternatePart= 
+Variation41=Designator=C307|UniqueId=\WKVFNPCC\SLUANJBM|Kind=1|AlternatePart= 
+Variation42=Designator=IC30|UniqueId=\WKVFNPCC\GNGLYROW|Kind=1|AlternatePart= 
+Variation43=Designator=IC31|UniqueId=\WKVFNPCC\JWACMRCL|Kind=1|AlternatePart= 
 ParamVariationCount=120
 
 [Parameter1]
 Name=Version
-Value=2.0.1
+Value=2.0.2
 
 [Configuration1]
 Name=Default Configuration
@@ -723,12 +758,12 @@ ContentTypeGUID=
 ConfigurationType=
 
 [Generic_EDE]
-OutputDir=Project Outputs for Kasli
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Brother_MFC_L2710DN_series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -834,7 +869,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP LaserJet M1530 MFP Series PCL 6
+TargetPrinter=Brother_MFC_L2710DN_series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -902,11 +937,23 @@ OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=Wave Print
+OutputName11=Wave Prints
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=WaveSim Print
+OutputName12=WaveSim Prints
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Brother_MFC_L2710DN_series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -928,7 +975,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Brother_MFC_L2710DN_series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -1000,52 +1047,52 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Brother_MFC_L2710DN_series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=SimpleBOM
-OutputName1=Simple BOM
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-Configuration1_Name1=OutputConfigurationParameter1
-Configuration1_Item1=Record=SimpleBOMView|SimpleBOMMode=0
-OutputType2=SinglePinNetReporter
-OutputName2=Report Single Pin Nets
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=Filter
+Configuration1_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration1_Name3=ForceUpdateSettings
+Configuration1_Item3=False
+Configuration1_Name4=General
+Configuration1_Item4=OpenExported=True|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1178|FormHeight=825|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration1_Name5=GroupOrder
+Configuration1_Item5=Comment=True|Footprint=True
+Configuration1_Name6=SortOrder
+Configuration1_Item6=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name7=VisibleOrder
+Configuration1_Item7=Comment=80|Description=80|Designator=80|Footprint=80|LibRef=80|Quantity=80
+OutputType2=ComponentCrossReference
+OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=Script
-OutputName3=Script Output
+OutputType3=ReportHierarchy
+OutputName3=Report Project Hierarchy
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=BOM_PartType
-OutputName4=Bill of Materials
+OutputType4=SimpleBOM
+OutputName4=Simple BOM
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-Configuration4_Name1=ColumnNameFormat
-Configuration4_Item1=CaptionAsName
-Configuration4_Name2=Filter
-Configuration4_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
-Configuration4_Name3=ForceUpdateSettings
-Configuration4_Item3=False
-Configuration4_Name4=General
-Configuration4_Item4=OpenExported=True|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1178|FormHeight=825|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
-Configuration4_Name5=GroupOrder
-Configuration4_Item5=Comment=True|Footprint=True
-Configuration4_Name6=SortOrder
-Configuration4_Item6=Designator=Up|Comment=Up|Footprint=Up
-Configuration4_Name7=VisibleOrder
-Configuration4_Item7=Comment=80|Description=80|Designator=80|Footprint=80|LibRef=80|Quantity=80
-OutputType5=ComponentCrossReference
-OutputName5=Component Cross Reference Report
+Configuration4_Name1=OutputConfigurationParameter1
+Configuration4_Item1=Record=SimpleBOMView|SimpleBOMMode=0
+OutputType5=SinglePinNetReporter
+OutputName5=Report Single Pin Nets
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=ReportHierarchy
-OutputName6=Report Project Hierarchy
+OutputType6=Script
+OutputName6=Script Output
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
@@ -1053,7 +1100,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Brother_MFC_L2710DN_series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1233,7 +1280,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Brother_MFC_L2710DN_series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
@@ -1268,16 +1315,11 @@ OutputName6=Environment configuration compliance check
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=BOM_Violations
-OutputName7=BOM Checks Report
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
 
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Brother_MFC_L2710DN_series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1324,21 +1366,11 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=MBAExportPARASOLID
-OutputName10=Export PARASOLID
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=MBAExportSTEP
-OutputName11=Export STEP
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Brother_MFC_L2710DN_series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1437,33 +1469,6 @@ Type87=1
 Type88=1
 Type89=1
 Type90=1
-Type91=1
-Type92=1
-Type93=1
-Type94=1
-Type95=1
-Type96=1
-Type97=1
-Type98=1
-Type99=1
-Type100=1
-Type101=1
-Type102=1
-Type103=1
-Type104=1
-Type105=1
-Type106=1
-Type107=1
-Type108=1
-Type109=1
-Type110=1
-Type111=1
-Type112=1
-Type113=1
-Type114=1
-Type115=1
-Type116=1
-Type117=1
 
 [Difference Levels]
 Type1=1
@@ -1515,23 +1520,6 @@ Type46=1
 Type47=1
 Type48=1
 Type49=1
-Type50=1
-Type51=1
-Type52=1
-Type53=1
-Type54=1
-Type55=1
-Type56=1
-Type57=1
-Type58=1
-Type59=1
-Type60=1
-Type61=1
-Type62=1
-Type63=1
-Type64=1
-Type65=1
-Type66=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1647,15 +1635,7 @@ Type110=1
 Type111=1
 Type112=1
 Type113=1
-Type114=2
-Type115=2
-Type116=2
-Type117=3
-Type118=3
-Type119=3
 MultiChannelAlternate=2
-AlternateItemFail=3
-Type122=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
