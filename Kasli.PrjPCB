@@ -32,8 +32,8 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-IsVirtualBomDocumentRemoved=0
-OutputPath=Project Outputs for Kasli
+IsVirtualBomDocumentRemoved=1
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -43,7 +43,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=Si549 CMOS
+CurrentVariant=Si549 LVDS
 
 [Preferences]
 PrefsVaultGUID=
@@ -777,7 +777,7 @@ ContentTypeGUID=
 ConfigurationType=
 
 [Generic_EDE]
-OutputDir=Project Outputs for Kasli
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
