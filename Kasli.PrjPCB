@@ -429,50 +429,48 @@ UniqueId=7B06FB3C-00CE-463C-ACDB-F389B2290E9F
 Description=Si549 CMOS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=43
+VariationCount=41
 Variation1=Designator=R43|UniqueId=\GNHKTQUG\KDGDSGUR|Kind=1|AlternatePart=
 Variation2=Designator=J24|UniqueId=\TCPEGTAL\MDYYLENS|Kind=1|AlternatePart=
-Variation3=Designator=R38|UniqueId=\OIQTLDDY\FGVMEKOC|Kind=0|AlternatePart=
-Variation4=Designator=R98|UniqueId=\OIQTLDDY\TIDROLHD|Kind=0|AlternatePart=
-Variation5=Designator=C189|UniqueId=\OIQTLDDY\EAWUCXAD|Kind=1|AlternatePart=
-Variation6=Designator=R39|UniqueId=\OIQTLDDY\THUPQFIA|Kind=1|AlternatePart=
-Variation7=Designator=R40|UniqueId=\OIQTLDDY\FPVHEEIU|Kind=1|AlternatePart=
-Variation8=Designator=R242|UniqueId=\OIQTLDDY\KDHWZBRU|Kind=1|AlternatePart=
-Variation9=Designator=R247|UniqueId=\OIQTLDDY\HYAYYQNE|Kind=1|AlternatePart=
-Variation10=Designator=R246|UniqueId=\OIQTLDDY\SUURZBTA|Kind=1|AlternatePart=
-Variation11=Designator=R9|UniqueId=\GNHKTQUG\YPMMAQUS|Kind=1|AlternatePart=
-Variation12=Designator=R80|UniqueId=\OWGHOVHE|Kind=1|AlternatePart=
-Variation13=Designator=R13|UniqueId=\LUVCHRQI|Kind=1|AlternatePart=
-Variation14=Designator=J26|UniqueId=\XHDMXMMK\RPERGPYF|Kind=1|AlternatePart=
-Variation15=Designator=C295|UniqueId=\OIQTLDDY\OCANRPPT|Kind=1|AlternatePart=
-Variation16=Designator=C294|UniqueId=\OIQTLDDY\ZZGVKREO|Kind=1|AlternatePart=
-Variation17=Designator=R36|UniqueId=\OIQTLDDY\HYNRWMDG|Kind=1|AlternatePart=
-Variation18=Designator=R97|UniqueId=\OIQTLDDY\ENXXINIY|Kind=1|AlternatePart=
-Variation19=Designator=R47|UniqueId=\OIQTLDDY\QYQOBBCQ|Kind=1|AlternatePart=
-Variation20=Designator=R48|UniqueId=\OIQTLDDY\UKILZCLD|Kind=1|AlternatePart=
-Variation21=Designator=R152|UniqueId=\OIQTLDDY\MBIQLCXH|Kind=1|AlternatePart=
-Variation22=Designator=R153|UniqueId=\OIQTLDDY\TPUGUJGC|Kind=1|AlternatePart=
-Variation23=Designator=IC27|UniqueId=\OIQTLDDY\LQFTJMWQ|Kind=1|AlternatePart=
-Variation24=Designator=C303|UniqueId=\OIQTLDDY\JTKVHKYA|Kind=1|AlternatePart=
-Variation25=Designator=D19|UniqueId=\OIQTLDDY\TYQAVSRU|Kind=1|AlternatePart=
-Variation26=Designator=R192|UniqueId=\OIQTLDDY\OQVNHHZK|Kind=1|AlternatePart=
-Variation27=Designator=R221|UniqueId=\OIQTLDDY\LNBMWIWZ|Kind=1|AlternatePart=
-Variation28=Designator=R257|UniqueId=\OIQTLDDY\HRPOLTUQ|Kind=1|AlternatePart=
-Variation29=Designator=R239|UniqueId=\OIQTLDDY\XQLVLEAA|Kind=1|AlternatePart=
-Variation30=Designator=R212|UniqueId=\OIQTLDDY\VWLQHRGG|Kind=1|AlternatePart=
-Variation31=Designator=R181|UniqueId=\OIQTLDDY\FBFXKIGV|Kind=1|AlternatePart=
-Variation32=Designator=R238|UniqueId=\OIQTLDDY\PEIGQQQQ|Kind=1|AlternatePart=
-Variation33=Designator=C304|UniqueId=\OIQTLDDY\EBNVHPWA|Kind=1|AlternatePart=
-Variation34=Designator=R177|UniqueId=\OIQTLDDY\LQFUSYYL|Kind=1|AlternatePart=
-Variation35=Designator=R264|UniqueId=\WKVFNPCC\RUUFABHK|Kind=1|AlternatePart=
-Variation36=Designator=R265|UniqueId=\WKVFNPCC\WTKYCOIW|Kind=1|AlternatePart=
-Variation37=Designator=IC30|UniqueId=\WKVFNPCC\GNGLYROW|Kind=1|AlternatePart=
-Variation38=Designator=IC31|UniqueId=\WKVFNPCC\JWACMRCL|Kind=1|AlternatePart=
-Variation39=Designator=C307|UniqueId=\WKVFNPCC\SLUANJBM|Kind=1|AlternatePart=
-Variation40=Designator=IC24|UniqueId=\WKVFNPCC\MXFAVGJX|Kind=1|AlternatePart=
-Variation41=Designator=C203|UniqueId=\WKVFNPCC\GOTFRRXZ|Kind=1|AlternatePart=
-Variation42=Designator=IC25|UniqueId=\WKVFNPCC\AXLYFCEU|Kind=1|AlternatePart=
-Variation43=Designator=C227|UniqueId=\WKVFNPCC\BDCJATEB|Kind=1|AlternatePart=
+Variation3=Designator=C189|UniqueId=\OIQTLDDY\EAWUCXAD|Kind=1|AlternatePart=
+Variation4=Designator=R39|UniqueId=\OIQTLDDY\THUPQFIA|Kind=1|AlternatePart=
+Variation5=Designator=R40|UniqueId=\OIQTLDDY\FPVHEEIU|Kind=1|AlternatePart=
+Variation6=Designator=R242|UniqueId=\OIQTLDDY\KDHWZBRU|Kind=1|AlternatePart=
+Variation7=Designator=R247|UniqueId=\OIQTLDDY\HYAYYQNE|Kind=1|AlternatePart=
+Variation8=Designator=R246|UniqueId=\OIQTLDDY\SUURZBTA|Kind=1|AlternatePart=
+Variation9=Designator=R9|UniqueId=\GNHKTQUG\YPMMAQUS|Kind=1|AlternatePart=
+Variation10=Designator=R80|UniqueId=\OWGHOVHE|Kind=1|AlternatePart=
+Variation11=Designator=R13|UniqueId=\LUVCHRQI|Kind=1|AlternatePart=
+Variation12=Designator=J26|UniqueId=\XHDMXMMK\RPERGPYF|Kind=1|AlternatePart=
+Variation13=Designator=C295|UniqueId=\OIQTLDDY\OCANRPPT|Kind=1|AlternatePart=
+Variation14=Designator=C294|UniqueId=\OIQTLDDY\ZZGVKREO|Kind=1|AlternatePart=
+Variation15=Designator=R36|UniqueId=\OIQTLDDY\HYNRWMDG|Kind=1|AlternatePart=
+Variation16=Designator=R97|UniqueId=\OIQTLDDY\ENXXINIY|Kind=1|AlternatePart=
+Variation17=Designator=R47|UniqueId=\OIQTLDDY\QYQOBBCQ|Kind=1|AlternatePart=
+Variation18=Designator=R48|UniqueId=\OIQTLDDY\UKILZCLD|Kind=1|AlternatePart=
+Variation19=Designator=R152|UniqueId=\OIQTLDDY\MBIQLCXH|Kind=1|AlternatePart=
+Variation20=Designator=R153|UniqueId=\OIQTLDDY\TPUGUJGC|Kind=1|AlternatePart=
+Variation21=Designator=IC27|UniqueId=\OIQTLDDY\LQFTJMWQ|Kind=1|AlternatePart=
+Variation22=Designator=C303|UniqueId=\OIQTLDDY\JTKVHKYA|Kind=1|AlternatePart=
+Variation23=Designator=D19|UniqueId=\OIQTLDDY\TYQAVSRU|Kind=1|AlternatePart=
+Variation24=Designator=R192|UniqueId=\OIQTLDDY\OQVNHHZK|Kind=1|AlternatePart=
+Variation25=Designator=R221|UniqueId=\OIQTLDDY\LNBMWIWZ|Kind=1|AlternatePart=
+Variation26=Designator=R257|UniqueId=\OIQTLDDY\HRPOLTUQ|Kind=1|AlternatePart=
+Variation27=Designator=R239|UniqueId=\OIQTLDDY\XQLVLEAA|Kind=1|AlternatePart=
+Variation28=Designator=R212|UniqueId=\OIQTLDDY\VWLQHRGG|Kind=1|AlternatePart=
+Variation29=Designator=R181|UniqueId=\OIQTLDDY\FBFXKIGV|Kind=1|AlternatePart=
+Variation30=Designator=R238|UniqueId=\OIQTLDDY\PEIGQQQQ|Kind=1|AlternatePart=
+Variation31=Designator=C304|UniqueId=\OIQTLDDY\EBNVHPWA|Kind=1|AlternatePart=
+Variation32=Designator=R177|UniqueId=\OIQTLDDY\LQFUSYYL|Kind=1|AlternatePart=
+Variation33=Designator=R264|UniqueId=\WKVFNPCC\RUUFABHK|Kind=1|AlternatePart=
+Variation34=Designator=R265|UniqueId=\WKVFNPCC\WTKYCOIW|Kind=1|AlternatePart=
+Variation35=Designator=IC30|UniqueId=\WKVFNPCC\GNGLYROW|Kind=1|AlternatePart=
+Variation36=Designator=IC31|UniqueId=\WKVFNPCC\JWACMRCL|Kind=1|AlternatePart=
+Variation37=Designator=C307|UniqueId=\WKVFNPCC\SLUANJBM|Kind=1|AlternatePart=
+Variation38=Designator=IC24|UniqueId=\WKVFNPCC\MXFAVGJX|Kind=1|AlternatePart=
+Variation39=Designator=C203|UniqueId=\WKVFNPCC\GOTFRRXZ|Kind=1|AlternatePart=
+Variation40=Designator=IC25|UniqueId=\WKVFNPCC\AXLYFCEU|Kind=1|AlternatePart=
+Variation41=Designator=C227|UniqueId=\WKVFNPCC\BDCJATEB|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -480,7 +478,7 @@ UniqueId=A2D5C312-5976-4949-9DA9-6F2832D583FB
 Description=Si549 LVDS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=47
+VariationCount=45
 Variation1=Designator=R43|UniqueId=\GNHKTQUG\KDGDSGUR|Kind=1|AlternatePart=
 Variation2=Designator=J24|UniqueId=\TCPEGTAL\MDYYLENS|Kind=1|AlternatePart=
 Variation3=Designator=R39|UniqueId=\OIQTLDDY\THUPQFIA|Kind=1|AlternatePart=
@@ -491,10 +489,8 @@ Variation7=Designator=R246|UniqueId=\OIQTLDDY\SUURZBTA|Kind=1|AlternatePart=
 Variation8=Designator=R9|UniqueId=\GNHKTQUG\YPMMAQUS|Kind=1|AlternatePart=
 Variation9=Designator=R80|UniqueId=\OWGHOVHE|Kind=1|AlternatePart=
 Variation10=Designator=R13|UniqueId=\LUVCHRQI|Kind=1|AlternatePart=
-Variation11=Designator=R36|UniqueId=\OIQTLDDY\HYNRWMDG|Kind=0|AlternatePart=
-Variation12=Designator=R97|UniqueId=\OIQTLDDY\ENXXINIY|Kind=0|AlternatePart=
-Variation13=Designator=R224|UniqueId=\OIQTLDDY\WAKUYHVP|Kind=1|AlternatePart=
-Variation14=Designator=OSC1|UniqueId=\OIQTLDDY\IRXKGHLC|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=ICs And Semiconductors.DbLib/Crystals & Oscillators|AltLibLink_SymbolReference=OSC_SILICON-LAB_SI549|AltLibLink_DesignItemID=OSC_0.2-800MHZ_SILICON-LAB_549BACB001937ABG|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ICs And Semiconductors.DbLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Crystals & Oscillators|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=OSC_SILICON-LAB_SI549-A|AltLibLink_IsSameFootprint=True
+Variation11=Designator=R224|UniqueId=\OIQTLDDY\WAKUYHVP|Kind=1|AlternatePart=
+Variation12=Designator=OSC1|UniqueId=\OIQTLDDY\IRXKGHLC|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=ICs And Semiconductors.DbLib/Crystals & Oscillators|AltLibLink_SymbolReference=OSC_SILICON-LAB_SI549|AltLibLink_DesignItemID=OSC_0.2-800MHZ_SILICON-LAB_549BACB001937ABG|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ICs And Semiconductors.DbLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Crystals & Oscillators|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=OSC_SILICON-LAB_SI549-A|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue==Value
 ParamDesignator1=OSC1
 ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
@@ -553,7 +549,7 @@ ParamVariation28=ParameterName=SMD|VariantValue=Yes
 ParamDesignator28=OSC1
 ParamVariation29=ParameterName=Socket|VariantValue=No
 ParamDesignator29=OSC1
-Variation15=Designator=R37|UniqueId=\OIQTLDDY\NBBXXSML|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=Resistor - 1%|AltLibLink_DesignItemID=R0402_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
+Variation13=Designator=R37|UniqueId=\OIQTLDDY\NBBXXSML|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=Resistor - 1%|AltLibLink_DesignItemID=R0402_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
 ParamVariation30=ParameterName=Comment|VariantValue==Value
 ParamDesignator30=R37
 ParamVariation31=ParameterName=Case|VariantValue=0402
@@ -616,7 +612,7 @@ ParamVariation59=ParameterName=Status|VariantValue=Not Recommended
 ParamDesignator59=R37
 ParamVariation60=ParameterName=Value|VariantValue=0
 ParamDesignator60=R37
-Variation16=Designator=OSC3|UniqueId=\OIQTLDDY\NKLWODKB|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=ICs And Semiconductors.DbLib/Crystals & Oscillators|AltLibLink_SymbolReference=OSC_SILICON-LAB_SI549|AltLibLink_DesignItemID=OSC_0.2-800MHZ_SILICON-LAB_549BACB001937ABG|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ICs And Semiconductors.DbLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Crystals & Oscillators|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=OSC_SILICON-LAB_SI549-A|AltLibLink_IsSameFootprint=True
+Variation14=Designator=OSC3|UniqueId=\OIQTLDDY\NKLWODKB|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=ICs And Semiconductors.DbLib/Crystals & Oscillators|AltLibLink_SymbolReference=OSC_SILICON-LAB_SI549|AltLibLink_DesignItemID=OSC_0.2-800MHZ_SILICON-LAB_549BACB001937ABG|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ICs And Semiconductors.DbLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Crystals & Oscillators|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=OSC_SILICON-LAB_SI549-A|AltLibLink_IsSameFootprint=True
 ParamVariation61=ParameterName=Comment|VariantValue==Value
 ParamDesignator61=OSC3
 ParamVariation62=ParameterName=Component Kind|VariantValue=Standard
@@ -675,8 +671,8 @@ ParamVariation88=ParameterName=SMD|VariantValue=Yes
 ParamDesignator88=OSC3
 ParamVariation89=ParameterName=Socket|VariantValue=No
 ParamDesignator89=OSC3
-Variation17=Designator=J26|UniqueId=\XHDMXMMK\RPERGPYF|Kind=1|AlternatePart=
-Variation18=Designator=R225|UniqueId=\OIQTLDDY\EJSHAETY|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=Resistor - 1%|AltLibLink_DesignItemID=R0402_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
+Variation15=Designator=J26|UniqueId=\XHDMXMMK\RPERGPYF|Kind=1|AlternatePart=
+Variation16=Designator=R225|UniqueId=\OIQTLDDY\EJSHAETY|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=Resistor - 1%|AltLibLink_DesignItemID=R0402_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=RESC1005X40N|AltLibLink_IsSameFootprint=True
 ParamVariation90=ParameterName=Comment|VariantValue==Value
 ParamDesignator90=R225
 ParamVariation91=ParameterName=Case|VariantValue=0402
@@ -739,40 +735,40 @@ ParamVariation119=ParameterName=Status|VariantValue=Not Recommended
 ParamDesignator119=R225
 ParamVariation120=ParameterName=Value|VariantValue=0
 ParamDesignator120=R225
-Variation19=Designator=C294|UniqueId=\OIQTLDDY\ZZGVKREO|Kind=1|AlternatePart=
-Variation20=Designator=C295|UniqueId=\OIQTLDDY\OCANRPPT|Kind=1|AlternatePart=
-Variation21=Designator=R38|UniqueId=\OIQTLDDY\FGVMEKOC|Kind=1|AlternatePart=
-Variation22=Designator=R98|UniqueId=\OIQTLDDY\TIDROLHD|Kind=1|AlternatePart=
-Variation23=Designator=R47|UniqueId=\OIQTLDDY\QYQOBBCQ|Kind=1|AlternatePart=
-Variation24=Designator=R48|UniqueId=\OIQTLDDY\UKILZCLD|Kind=1|AlternatePart=
-Variation25=Designator=R152|UniqueId=\OIQTLDDY\MBIQLCXH|Kind=1|AlternatePart=
-Variation26=Designator=R153|UniqueId=\OIQTLDDY\TPUGUJGC|Kind=1|AlternatePart=
-Variation27=Designator=IC27|UniqueId=\OIQTLDDY\LQFTJMWQ|Kind=1|AlternatePart=
-Variation28=Designator=C303|UniqueId=\OIQTLDDY\JTKVHKYA|Kind=1|AlternatePart=
-Variation29=Designator=D19|UniqueId=\OIQTLDDY\TYQAVSRU|Kind=1|AlternatePart=
-Variation30=Designator=R192|UniqueId=\OIQTLDDY\OQVNHHZK|Kind=1|AlternatePart=
-Variation31=Designator=R221|UniqueId=\OIQTLDDY\LNBMWIWZ|Kind=1|AlternatePart=
-Variation32=Designator=R257|UniqueId=\OIQTLDDY\HRPOLTUQ|Kind=1|AlternatePart=
-Variation33=Designator=R181|UniqueId=\OIQTLDDY\FBFXKIGV|Kind=1|AlternatePart=
-Variation34=Designator=R212|UniqueId=\OIQTLDDY\VWLQHRGG|Kind=1|AlternatePart=
-Variation35=Designator=R239|UniqueId=\OIQTLDDY\XQLVLEAA|Kind=1|AlternatePart=
-Variation36=Designator=R238|UniqueId=\OIQTLDDY\PEIGQQQQ|Kind=1|AlternatePart=
-Variation37=Designator=C304|UniqueId=\OIQTLDDY\EBNVHPWA|Kind=1|AlternatePart=
-Variation38=Designator=R177|UniqueId=\OIQTLDDY\LQFUSYYL|Kind=1|AlternatePart=
-Variation39=Designator=R264|UniqueId=\WKVFNPCC\RUUFABHK|Kind=1|AlternatePart=
-Variation40=Designator=R265|UniqueId=\WKVFNPCC\WTKYCOIW|Kind=1|AlternatePart=
-Variation41=Designator=C307|UniqueId=\WKVFNPCC\SLUANJBM|Kind=1|AlternatePart=
-Variation42=Designator=IC30|UniqueId=\WKVFNPCC\GNGLYROW|Kind=1|AlternatePart=
-Variation43=Designator=IC31|UniqueId=\WKVFNPCC\JWACMRCL|Kind=1|AlternatePart=
-Variation44=Designator=IC24|UniqueId=\WKVFNPCC\MXFAVGJX|Kind=1|AlternatePart=
-Variation45=Designator=C203|UniqueId=\WKVFNPCC\GOTFRRXZ|Kind=1|AlternatePart=
-Variation46=Designator=IC25|UniqueId=\WKVFNPCC\AXLYFCEU|Kind=1|AlternatePart=
-Variation47=Designator=C227|UniqueId=\WKVFNPCC\BDCJATEB|Kind=1|AlternatePart=
+Variation17=Designator=C294|UniqueId=\OIQTLDDY\ZZGVKREO|Kind=1|AlternatePart=
+Variation18=Designator=C295|UniqueId=\OIQTLDDY\OCANRPPT|Kind=1|AlternatePart=
+Variation19=Designator=R38|UniqueId=\OIQTLDDY\FGVMEKOC|Kind=1|AlternatePart=
+Variation20=Designator=R98|UniqueId=\OIQTLDDY\TIDROLHD|Kind=1|AlternatePart=
+Variation21=Designator=R47|UniqueId=\OIQTLDDY\QYQOBBCQ|Kind=1|AlternatePart=
+Variation22=Designator=R48|UniqueId=\OIQTLDDY\UKILZCLD|Kind=1|AlternatePart=
+Variation23=Designator=R152|UniqueId=\OIQTLDDY\MBIQLCXH|Kind=1|AlternatePart=
+Variation24=Designator=R153|UniqueId=\OIQTLDDY\TPUGUJGC|Kind=1|AlternatePart=
+Variation25=Designator=IC27|UniqueId=\OIQTLDDY\LQFTJMWQ|Kind=1|AlternatePart=
+Variation26=Designator=C303|UniqueId=\OIQTLDDY\JTKVHKYA|Kind=1|AlternatePart=
+Variation27=Designator=D19|UniqueId=\OIQTLDDY\TYQAVSRU|Kind=1|AlternatePart=
+Variation28=Designator=R192|UniqueId=\OIQTLDDY\OQVNHHZK|Kind=1|AlternatePart=
+Variation29=Designator=R221|UniqueId=\OIQTLDDY\LNBMWIWZ|Kind=1|AlternatePart=
+Variation30=Designator=R257|UniqueId=\OIQTLDDY\HRPOLTUQ|Kind=1|AlternatePart=
+Variation31=Designator=R181|UniqueId=\OIQTLDDY\FBFXKIGV|Kind=1|AlternatePart=
+Variation32=Designator=R212|UniqueId=\OIQTLDDY\VWLQHRGG|Kind=1|AlternatePart=
+Variation33=Designator=R239|UniqueId=\OIQTLDDY\XQLVLEAA|Kind=1|AlternatePart=
+Variation34=Designator=R238|UniqueId=\OIQTLDDY\PEIGQQQQ|Kind=1|AlternatePart=
+Variation35=Designator=C304|UniqueId=\OIQTLDDY\EBNVHPWA|Kind=1|AlternatePart=
+Variation36=Designator=R177|UniqueId=\OIQTLDDY\LQFUSYYL|Kind=1|AlternatePart=
+Variation37=Designator=R264|UniqueId=\WKVFNPCC\RUUFABHK|Kind=1|AlternatePart=
+Variation38=Designator=R265|UniqueId=\WKVFNPCC\WTKYCOIW|Kind=1|AlternatePart=
+Variation39=Designator=C307|UniqueId=\WKVFNPCC\SLUANJBM|Kind=1|AlternatePart=
+Variation40=Designator=IC30|UniqueId=\WKVFNPCC\GNGLYROW|Kind=1|AlternatePart=
+Variation41=Designator=IC31|UniqueId=\WKVFNPCC\JWACMRCL|Kind=1|AlternatePart=
+Variation42=Designator=IC24|UniqueId=\WKVFNPCC\MXFAVGJX|Kind=1|AlternatePart=
+Variation43=Designator=C203|UniqueId=\WKVFNPCC\GOTFRRXZ|Kind=1|AlternatePart=
+Variation44=Designator=IC25|UniqueId=\WKVFNPCC\AXLYFCEU|Kind=1|AlternatePart=
+Variation45=Designator=C227|UniqueId=\WKVFNPCC\BDCJATEB|Kind=1|AlternatePart=
 ParamVariationCount=120
 
 [Parameter1]
 Name=Version
-Value=2.0.2
+Value=2.1.0
 
 [Configuration1]
 Name=Default Configuration
@@ -902,22 +898,12 @@ OutputName20=PADS ASCII Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=Mixed Sim Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=ECOSYS M3550idn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1024,6 +1010,11 @@ OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
+OutputType4=Wire Bonding Table
+OutputName4=Wire Bonding Table Report
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -1452,6 +1443,15 @@ Type147=1
 Type148=1
 Type149=1
 Type150=1
+Type151=1
+Type152=1
+Type153=1
+Type154=1
+Type155=1
+Type156=1
+Type157=1
+Type158=1
+Type159=1
 
 [Difference Levels]
 Type1=1
@@ -1535,6 +1535,12 @@ Type78=1
 Type79=1
 Type80=1
 Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1690,6 +1696,16 @@ Type150=2
 Type151=2
 Type152=1
 Type153=1
+Type154=0
+Type155=0
+Type156=0
+Type157=0
+Type158=0
+Type159=0
+Type160=0
+Type161=0
+Type162=1
+Type163=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
