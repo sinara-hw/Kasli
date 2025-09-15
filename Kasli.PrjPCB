@@ -44,7 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=Si549 LVDS
+CurrentVariant=Si549 CMOS
 
 [Preferences]
 PrefsVaultGUID=
@@ -255,23 +255,6 @@ GenerateClassCluster=0
 DocumentUniqueId=RXYNIQGX
 
 [Document13]
-DocumentPath=PCB_KASLI.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document14]
 DocumentPath=FPGA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -288,7 +271,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -305,7 +288,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GVYIJDDF
 
-[Document16]
+[Document15]
 DocumentPath=PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -322,7 +305,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TSNNFQUY
 
-[Document17]
+[Document16]
 DocumentPath=FPGAGTP.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -339,7 +322,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document17]
 DocumentPath=FPGA_I2C.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -356,7 +339,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document18]
 DocumentPath=SFP.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -373,7 +356,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document19]
 DocumentPath=ClockRecovery.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -390,7 +373,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document20]
 DocumentPath=IDC_EXT_Connectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -407,8 +390,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document21]
 DocumentPath=PowerSupplies.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document22]
+DocumentPath=Kasli.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -429,7 +429,7 @@ UniqueId=7B06FB3C-00CE-463C-ACDB-F389B2290E9F
 Description=Si549 CMOS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=41
+VariationCount=42
 Variation1=Designator=R43|UniqueId=\GNHKTQUG\KDGDSGUR|Kind=1|AlternatePart=
 Variation2=Designator=J24|UniqueId=\TCPEGTAL\MDYYLENS|Kind=1|AlternatePart=
 Variation3=Designator=C189|UniqueId=\OIQTLDDY\EAWUCXAD|Kind=1|AlternatePart=
@@ -467,10 +467,11 @@ Variation34=Designator=R265|UniqueId=\WKVFNPCC\WTKYCOIW|Kind=1|AlternatePart=
 Variation35=Designator=IC30|UniqueId=\WKVFNPCC\GNGLYROW|Kind=1|AlternatePart=
 Variation36=Designator=IC31|UniqueId=\WKVFNPCC\JWACMRCL|Kind=1|AlternatePart=
 Variation37=Designator=C307|UniqueId=\WKVFNPCC\SLUANJBM|Kind=1|AlternatePart=
-Variation38=Designator=IC24|UniqueId=\WKVFNPCC\MXFAVGJX|Kind=1|AlternatePart=
-Variation39=Designator=C203|UniqueId=\WKVFNPCC\GOTFRRXZ|Kind=1|AlternatePart=
-Variation40=Designator=IC25|UniqueId=\WKVFNPCC\AXLYFCEU|Kind=1|AlternatePart=
-Variation41=Designator=C227|UniqueId=\WKVFNPCC\BDCJATEB|Kind=1|AlternatePart=
+Variation38=Designator=C203|UniqueId=\WKVFNPCC\GOTFRRXZ|Kind=1|AlternatePart=
+Variation39=Designator=C227|UniqueId=\WKVFNPCC\BDCJATEB|Kind=1|AlternatePart=
+Variation40=Designator=R271|UniqueId=\WKVFNPCC\KXOLQMLO|Kind=1|AlternatePart=
+Variation41=Designator=IC28|UniqueId=\WKVFNPCC\FWJCULLT|Kind=1|AlternatePart=
+Variation42=Designator=IC29|UniqueId=\WKVFNPCC\EGUGGFIM|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -478,7 +479,7 @@ UniqueId=A2D5C312-5976-4949-9DA9-6F2832D583FB
 Description=Si549 LVDS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=45
+VariationCount=46
 Variation1=Designator=R43|UniqueId=\GNHKTQUG\KDGDSGUR|Kind=1|AlternatePart=
 Variation2=Designator=J24|UniqueId=\TCPEGTAL\MDYYLENS|Kind=1|AlternatePart=
 Variation3=Designator=R39|UniqueId=\OIQTLDDY\THUPQFIA|Kind=1|AlternatePart=
@@ -760,13 +761,18 @@ Variation38=Designator=R265|UniqueId=\WKVFNPCC\WTKYCOIW|Kind=1|AlternatePart=
 Variation39=Designator=C307|UniqueId=\WKVFNPCC\SLUANJBM|Kind=1|AlternatePart=
 Variation40=Designator=IC30|UniqueId=\WKVFNPCC\GNGLYROW|Kind=1|AlternatePart=
 Variation41=Designator=IC31|UniqueId=\WKVFNPCC\JWACMRCL|Kind=1|AlternatePart=
-Variation42=Designator=IC24|UniqueId=\WKVFNPCC\MXFAVGJX|Kind=1|AlternatePart=
-Variation43=Designator=C203|UniqueId=\WKVFNPCC\GOTFRRXZ|Kind=1|AlternatePart=
-Variation44=Designator=IC25|UniqueId=\WKVFNPCC\AXLYFCEU|Kind=1|AlternatePart=
-Variation45=Designator=C227|UniqueId=\WKVFNPCC\BDCJATEB|Kind=1|AlternatePart=
+Variation42=Designator=C203|UniqueId=\WKVFNPCC\GOTFRRXZ|Kind=1|AlternatePart=
+Variation43=Designator=C227|UniqueId=\WKVFNPCC\BDCJATEB|Kind=1|AlternatePart=
+Variation44=Designator=R272|UniqueId=\WKVFNPCC\DBQCMRFE|Kind=1|AlternatePart=
+Variation45=Designator=IC28|UniqueId=\WKVFNPCC\FWJCULLT|Kind=1|AlternatePart=
+Variation46=Designator=IC29|UniqueId=\WKVFNPCC\EGUGGFIM|Kind=1|AlternatePart=
 ParamVariationCount=120
 
 [Parameter1]
+Name=P_version
+Value=2.1
+
+[Parameter2]
 Name=Version
 Value=2.1.0
 
@@ -898,12 +904,22 @@ OutputName20=PADS ASCII Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=XSpiceNetlist
+OutputName21=Mixed Sim Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=ECOSYS M3550idn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1280,6 +1296,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=MathWorks
+OutputName15=MathWorks (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Orcad v7 Capture Design
+OutputName16=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD ASCII
+OutputName17=P-CAD ASCII (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=P-CAD V16 Schematic Design
+OutputName18=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
